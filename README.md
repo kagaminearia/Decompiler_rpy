@@ -24,7 +24,7 @@ To use it, input `py -3 -m unrpa scripts.rpa`, the `.rpa` file is what you want 
 It will extract several `.rpyc` files
 
 ### unrpyc - convert `.rpyc` to `.rpy`
-+ (unrpyc github repo)[https://github.com/CensoredUsername/unrpyc]
++ [unrpyc github repo](https://github.com/CensoredUsername/unrpyc)
 + clone the repo under the path with `.rpyc` files
 + `py -2 /unrpyc/unrpyc.py script01.rpyc` to decompile the `.rpyc` file you want to decompile
 + The path and file names may vary due to your setting
